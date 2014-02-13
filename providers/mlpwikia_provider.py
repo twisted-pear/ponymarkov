@@ -142,7 +142,7 @@ class MLPWikiaProvider(provider.ProviderI):
                     contents = "".join(unicode(item) for item in
                         dd_tag.contents[1:])
                     contents = re.sub(r'(^.*: ?)*(<\/?[a-z]+>)*', '', contents)
-                    con.append(contents)
+                    con.append(contents.encode('utf8'))
         return con
 
 
