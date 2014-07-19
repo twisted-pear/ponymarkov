@@ -89,6 +89,20 @@ urls = {
     '4x10': 'http://mlp.wikia.com/wiki/Transcripts/Rainbow_Falls',
     '4x11': 'http://mlp.wikia.com/wiki/Transcripts/Three%27s_A_Crowd',
     '4x12': 'http://mlp.wikia.com/wiki/Transcripts/Pinkie_Pride',
+    '4x13': 'http://mlp.wikia.com/wiki/Transcripts/Simple_Ways',
+    '4x14': 'http://mlp.wikia.com/wiki/Transcripts/Filli_Vanilli',
+    '4x15': 'http://mlp.wikia.com/wiki/Transcripts/Twilight_Time',
+    '4x16': 'http://mlp.wikia.com/wiki/Transcripts/It_Ain%27t_Easy_Being_Breezies',
+    '4x17': 'http://mlp.wikia.com/wiki/Transcripts/Somepony_to_Watch_Over_Me',
+    '4x18': 'http://mlp.wikia.com/wiki/Transcripts/Maud_Pie',
+    '4x19': 'http://mlp.wikia.com/wiki/Transcripts/For_Whom_the_Sweetie_Belle_Toils',
+    '4x20': 'http://mlp.wikia.com/wiki/Transcripts/Leap_of_Faith',
+    '4x21': 'http://mlp.wikia.com/wiki/Transcripts/Testing_Testing_1,_2,_3',
+    '4x22': 'http://mlp.wikia.com/wiki/Transcripts/Trade_Ya!',
+    '4x23': 'http://mlp.wikia.com/wiki/Transcripts/Inspiration_Manifestation',
+    '4x24': 'http://mlp.wikia.com/wiki/Transcripts/Equestria_Games',
+    '4x25': 'http://mlp.wikia.com/wiki/Transcripts/Twilight%27s_Kingdom_-_Part_1',
+    '4x26': 'http://mlp.wikia.com/wiki/Transcripts/Twilight%27s_Kingdom_-_Part_2',
     }
 
 
